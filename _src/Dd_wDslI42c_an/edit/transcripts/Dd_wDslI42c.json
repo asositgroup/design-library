@@ -1,0 +1,1049 @@
+{
+ "words": [
+  {
+   "text": "Agar",
+   "start": 0.03,
+   "end": 0.18,
+   "type": "word"
+  },
+  {
+   "text": "shu",
+   "start": 0.18,
+   "end": 0.36,
+   "type": "word"
+  },
+  {
+   "text": "yilin",
+   "start": 0.36,
+   "end": 0.56,
+   "type": "word"
+  },
+  {
+   "text": "aqhari",
+   "start": 0.56,
+   "end": 0.86,
+   "type": "word"
+  },
+  {
+   "text": "gechi",
+   "start": 0.86,
+   "end": 1.12,
+   "type": "word"
+  },
+  {
+   "text": "an",
+   "start": 1.12,
+   "end": 1.28,
+   "type": "word"
+  },
+  {
+   "text": "karizdarilikdan",
+   "start": 1.28,
+   "end": 1.98,
+   "type": "word"
+  },
+  {
+   "text": "budkul",
+   "start": 1.98,
+   "end": 2.31,
+   "type": "word"
+  },
+  {
+   "text": "xalaz",
+   "start": 2.31,
+   "end": 2.64,
+   "type": "word"
+  },
+  {
+   "text": "bolib",
+   "start": 2.64,
+   "end": 2.94,
+   "type": "word"
+  },
+  {
+   "text": "maliyyay",
+   "start": 2.94,
+   "end": 3.26,
+   "type": "word"
+  },
+  {
+   "text": "verkiliki",
+   "start": 3.26,
+   "end": 3.68,
+   "type": "word"
+  },
+  {
+   "text": "chqishin",
+   "start": 3.71,
+   "end": 4.04,
+   "type": "word"
+  },
+  {
+   "text": "xoqlasangiz,",
+   "start": 4.04,
+   "end": 4.69,
+   "type": "word"
+  },
+  {
+   "text": "manashu,",
+   "start": 4.79,
+   "end": 5.18,
+   "type": "word"
+  },
+  {
+   "text": "shiteyishni",
+   "start": 5.18,
+   "end": 5.74,
+   "type": "word"
+  },
+  {
+   "text": "darxal",
+   "start": 5.74,
+   "end": 6.22,
+   "type": "word"
+  },
+  {
+   "text": "qilin.",
+   "start": 6.22,
+   "end": 6.46,
+   "type": "word"
+  },
+  {
+   "text": "Va,",
+   "start": 6.58,
+   "end": 6.76,
+   "type": "word"
+  },
+  {
+   "text": "uchunchisini",
+   "start": 6.84,
+   "end": 7.42,
+   "type": "word"
+  },
+  {
+   "text": "qobchilik",
+   "start": 7.42,
+   "end": 7.8,
+   "type": "word"
+  },
+  {
+   "text": "insalik",
+   "start": 7.8,
+   "end": 8.3,
+   "type": "word"
+  },
+  {
+   "text": "qimidi.",
+   "start": 8.3,
+   "end": 8.66,
+   "type": "word"
+  },
+  {
+   "text": "Aslina",
+   "start": 8.8,
+   "end": 9.18,
+   "type": "word"
+  },
+  {
+   "text": "agin,",
+   "start": 9.18,
+   "end": 9.46,
+   "type": "word"
+  },
+  {
+   "text": "manashu,",
+   "start": 9.48,
+   "end": 9.84,
+   "type": "word"
+  },
+  {
+   "text": "uchunchi",
+   "start": 9.88,
+   "end": 10.22,
+   "type": "word"
+  },
+  {
+   "text": "ish",
+   "start": 10.22,
+   "end": 10.46,
+   "type": "word"
+  },
+  {
+   "text": "qobchilik",
+   "start": 10.46,
+   "end": 10.82,
+   "type": "word"
+  },
+  {
+   "text": "insalilarni",
+   "start": 10.82,
+   "end": 11.54,
+   "type": "word"
+  },
+  {
+   "text": "karizdarlikdan",
+   "start": 11.54,
+   "end": 12.16,
+   "type": "word"
+  },
+  {
+   "text": "chqishike",
+   "start": 12.16,
+   "end": 12.56,
+   "type": "word"
+  },
+  {
+   "text": "yardan",
+   "start": 12.57,
+   "end": 12.92,
+   "type": "word"
+  },
+  {
+   "text": "veradi.",
+   "start": 12.92,
+   "end": 13.26,
+   "type": "word"
+  },
+  {
+   "text": "Birunchisi,",
+   "start": 13.38,
+   "end": 13.9,
+   "type": "word"
+  },
+  {
+   "text": "yangi",
+   "start": 14.02,
+   "end": 14.42,
+   "type": "word"
+  },
+  {
+   "text": "kariz",
+   "start": 14.42,
+   "end": 14.82,
+   "type": "word"
+  },
+  {
+   "text": "alushlarini",
+   "start": 14.82,
+   "end": 15.32,
+   "type": "word"
+  },
+  {
+   "text": "vaxtinche",
+   "start": 15.32,
+   "end": 15.76,
+   "type": "word"
+  },
+  {
+   "text": "toqtatin.",
+   "start": 15.76,
+   "end": 16.1,
+   "type": "word"
+  },
+  {
+   "text": "Fakat",
+   "start": 16.28,
+   "end": 16.54,
+   "type": "word"
+  },
+  {
+   "text": "bu",
+   "start": 16.54,
+   "end": 16.7,
+   "type": "word"
+  },
+  {
+   "text": "sefar,",
+   "start": 16.7,
+   "end": 17.06,
+   "type": "word"
+  },
+  {
+   "text": "key",
+   "start": 17.2,
+   "end": 17.32,
+   "type": "word"
+  },
+  {
+   "text": "sefar",
+   "start": 17.32,
+   "end": 17.64,
+   "type": "word"
+  },
+  {
+   "text": "qaytar",
+   "start": 17.64,
+   "end": 17.92,
+   "type": "word"
+  },
+  {
+   "text": "mima,",
+   "start": 17.92,
+   "end": 18.2,
+   "type": "word"
+  },
+  {
+   "text": "key",
+   "start": 18.38,
+   "end": 18.52,
+   "type": "word"
+  },
+  {
+   "text": "sefardan",
+   "start": 18.59,
+   "end": 19.12,
+   "type": "word"
+  },
+  {
+   "text": "ujibosh",
+   "start": 19.12,
+   "end": 19.46,
+   "type": "word"
+  },
+  {
+   "text": "qochi",
+   "start": 19.46,
+   "end": 19.65,
+   "type": "word"
+  },
+  {
+   "text": "boladi,",
+   "start": 19.69,
+   "end": 20.05,
+   "type": "word"
+  },
+  {
+   "text": "key",
+   "start": 20.2,
+   "end": 20.36,
+   "type": "word"
+  },
+  {
+   "text": "bi",
+   "start": 20.36,
+   "end": 20.52,
+   "type": "word"
+  },
+  {
+   "text": "baxanalar",
+   "start": 20.52,
+   "end": 21.02,
+   "type": "word"
+  },
+  {
+   "text": "bulan,",
+   "start": 21.02,
+   "end": 21.38,
+   "type": "word"
+  },
+  {
+   "text": "yana",
+   "start": 21.4,
+   "end": 21.58,
+   "type": "word"
+  },
+  {
+   "text": "qayta",
+   "start": 21.58,
+   "end": 21.84,
+   "type": "word"
+  },
+  {
+   "text": "qayta",
+   "start": 21.84,
+   "end": 22.2,
+   "type": "word"
+  },
+  {
+   "text": "kariz",
+   "start": 22.2,
+   "end": 22.52,
+   "type": "word"
+  },
+  {
+   "text": "oğuradi",
+   "start": 22.52,
+   "end": 22.88,
+   "type": "word"
+  },
+  {
+   "text": "gyan",
+   "start": 22.88,
+   "end": 23.06,
+   "type": "word"
+  },
+  {
+   "text": "boziz,",
+   "start": 23.06,
+   "end": 23.33,
+   "type": "word"
+  },
+  {
+   "text": "qarizni",
+   "start": 23.38,
+   "end": 24.1,
+   "type": "word"
+  },
+  {
+   "text": "yabib",
+   "start": 24.1,
+   "end": 24.3,
+   "type": "word"
+  },
+  {
+   "text": "ikinchi",
+   "start": 24.3,
+   "end": 24.82,
+   "type": "word"
+  },
+  {
+   "text": "yangi",
+   "start": 24.82,
+   "end": 25.12,
+   "type": "word"
+  },
+  {
+   "text": "qarizgi",
+   "start": 25.12,
+   "end": 25.47,
+   "type": "word"
+  },
+  {
+   "text": "qirib",
+   "start": 25.53,
+   "end": 25.72,
+   "type": "word"
+  },
+  {
+   "text": "qeta",
+   "start": 25.72,
+   "end": 25.92,
+   "type": "word"
+  },
+  {
+   "text": "verasiz.",
+   "start": 25.98,
+   "end": 26.34,
+   "type": "word"
+  },
+  {
+   "text": "Awal",
+   "start": 26.6,
+   "end": 26.98,
+   "type": "word"
+  },
+  {
+   "text": "pul",
+   "start": 26.98,
+   "end": 27.17,
+   "type": "word"
+  },
+  {
+   "text": "qirib",
+   "start": 27.25,
+   "end": 27.53,
+   "type": "word"
+  },
+  {
+   "text": "qeto",
+   "start": 27.62,
+   "end": 27.72,
+   "type": "word"
+  },
+  {
+   "text": "atgan",
+   "start": 27.72,
+   "end": 27.92,
+   "type": "word"
+  },
+  {
+   "text": "tezhikni",
+   "start": 27.96,
+   "end": 28.37,
+   "type": "word"
+  },
+  {
+   "text": "yabish",
+   "start": 28.41,
+   "end": 28.66,
+   "type": "word"
+  },
+  {
+   "text": "qeri.",
+   "start": 28.66,
+   "end": 28.88,
+   "type": "word"
+  },
+  {
+   "text": "Ikincisi,",
+   "start": 29.06,
+   "end": 29.58,
+   "type": "word"
+  },
+  {
+   "text": "xar",
+   "start": 29.68,
+   "end": 30.06,
+   "type": "word"
+  },
+  {
+   "text": "bir",
+   "start": 30.06,
+   "end": 30.16,
+   "type": "word"
+  },
+  {
+   "text": "qarizizi",
+   "start": 30.16,
+   "end": 30.7,
+   "type": "word"
+  },
+  {
+   "text": "qogazgi",
+   "start": 30.7,
+   "end": 31.14,
+   "type": "word"
+  },
+  {
+   "text": "yazib",
+   "start": 31.14,
+   "end": 31.46,
+   "type": "word"
+  },
+  {
+   "text": "qetin.",
+   "start": 31.46,
+   "end": 31.66,
+   "type": "word"
+  },
+  {
+   "text": "Kimdan",
+   "start": 31.93,
+   "end": 32.15,
+   "type": "word"
+  },
+  {
+   "text": "kancha",
+   "start": 32.15,
+   "end": 32.46,
+   "type": "word"
+  },
+  {
+   "text": "qariziz",
+   "start": 32.47,
+   "end": 32.86,
+   "type": "word"
+  },
+  {
+   "text": "bar,",
+   "start": 32.86,
+   "end": 33.0,
+   "type": "word"
+  },
+  {
+   "text": "kachan",
+   "start": 33.11,
+   "end": 33.56,
+   "type": "word"
+  },
+  {
+   "text": "ge",
+   "start": 33.56,
+   "end": 33.7,
+   "type": "word"
+  },
+  {
+   "text": "can",
+   "start": 33.7,
+   "end": 33.84,
+   "type": "word"
+  },
+  {
+   "text": "tola",
+   "start": 33.84,
+   "end": 34.02,
+   "type": "word"
+  },
+  {
+   "text": "shiz",
+   "start": 34.02,
+   "end": 34.26,
+   "type": "word"
+  },
+  {
+   "text": "keri",
+   "start": 34.26,
+   "end": 34.52,
+   "type": "word"
+  },
+  {
+   "text": "va",
+   "start": 34.52,
+   "end": 34.74,
+   "type": "word"
+  },
+  {
+   "text": "aygi",
+   "start": 34.74,
+   "end": 35.15,
+   "type": "word"
+  },
+  {
+   "text": "kancha",
+   "start": 35.15,
+   "end": 35.65,
+   "type": "word"
+  },
+  {
+   "text": "summadan",
+   "start": 35.65,
+   "end": 35.97,
+   "type": "word"
+  },
+  {
+   "text": "tola",
+   "start": 35.97,
+   "end": 36.28,
+   "type": "word"
+  },
+  {
+   "text": "vas.",
+   "start": 36.28,
+   "end": 36.46,
+   "type": "word"
+  },
+  {
+   "text": "Hamasini",
+   "start": 36.64,
+   "end": 37.1,
+   "type": "word"
+  },
+  {
+   "text": "bitda",
+   "start": 37.1,
+   "end": 37.51,
+   "type": "word"
+  },
+  {
+   "text": "qib",
+   "start": 37.58,
+   "end": 37.72,
+   "type": "word"
+  },
+  {
+   "text": "yazish",
+   "start": 37.79,
+   "end": 38.0,
+   "type": "word"
+  },
+  {
+   "text": "keri.",
+   "start": 38.0,
+   "end": 38.21,
+   "type": "word"
+  },
+  {
+   "text": "Uchincisi,",
+   "start": 38.29,
+   "end": 38.74,
+   "type": "word"
+  },
+  {
+   "text": "qarizdarlikdan",
+   "start": 38.84,
+   "end": 39.82,
+   "type": "word"
+  },
+  {
+   "text": "in",
+   "start": 39.82,
+   "end": 39.99,
+   "type": "word"
+  },
+  {
+   "text": "tez",
+   "start": 40.15,
+   "end": 40.68,
+   "type": "word"
+  },
+  {
+   "text": "chqishizgi",
+   "start": 40.68,
+   "end": 41.16,
+   "type": "word"
+  },
+  {
+   "text": "yardan",
+   "start": 41.16,
+   "end": 41.46,
+   "type": "word"
+  },
+  {
+   "text": "bera",
+   "start": 41.46,
+   "end": 41.68,
+   "type": "word"
+  },
+  {
+   "text": "digan",
+   "start": 41.68,
+   "end": 41.89,
+   "type": "word"
+  },
+  {
+   "text": "yol",
+   "start": 41.92,
+   "end": 42.2,
+   "type": "word"
+  },
+  {
+   "text": "bu",
+   "start": 42.2,
+   "end": 42.42,
+   "type": "word"
+  },
+  {
+   "text": "ixsan.",
+   "start": 42.42,
+   "end": 42.9,
+   "type": "word"
+  },
+  {
+   "text": "Ixsanin",
+   "start": 43.14,
+   "end": 43.52,
+   "type": "word"
+  },
+  {
+   "text": "yaxsh",
+   "start": 43.52,
+   "end": 43.72,
+   "type": "word"
+  },
+  {
+   "text": "qorish",
+   "start": 43.72,
+   "end": 44.02,
+   "type": "word"
+  },
+  {
+   "text": "va",
+   "start": 44.02,
+   "end": 44.18,
+   "type": "word"
+  },
+  {
+   "text": "qolizda",
+   "start": 44.18,
+   "end": 44.5,
+   "type": "word"
+  },
+  {
+   "text": "kancha",
+   "start": 44.53,
+   "end": 44.82,
+   "type": "word"
+  },
+  {
+   "text": "summa",
+   "start": 44.83,
+   "end": 45.14,
+   "type": "word"
+  },
+  {
+   "text": "bar",
+   "start": 45.14,
+   "end": 45.3,
+   "type": "word"
+  },
+  {
+   "text": "bora",
+   "start": 45.3,
+   "end": 45.6,
+   "type": "word"
+  },
+  {
+   "text": "digan",
+   "start": 45.6,
+   "end": 45.86,
+   "type": "word"
+  },
+  {
+   "text": "bose",
+   "start": 45.86,
+   "end": 46.04,
+   "type": "word"
+  },
+  {
+   "text": "mana",
+   "start": 46.04,
+   "end": 46.46,
+   "type": "word"
+  },
+  {
+   "text": "shu",
+   "start": 46.46,
+   "end": 46.66,
+   "type": "word"
+  },
+  {
+   "text": "summani",
+   "start": 46.66,
+   "end": 47.12,
+   "type": "word"
+  },
+  {
+   "text": "on",
+   "start": 47.12,
+   "end": 47.36,
+   "type": "word"
+  },
+  {
+   "text": "qarizini",
+   "start": 47.36,
+   "end": 47.78,
+   "type": "word"
+  },
+  {
+   "text": "ixsan",
+   "start": 47.78,
+   "end": 47.97,
+   "type": "word"
+  },
+  {
+   "text": "qirish",
+   "start": 48.03,
+   "end": 48.28,
+   "type": "word"
+  },
+  {
+   "text": "qeri.",
+   "start": 48.28,
+   "end": 48.6,
+   "type": "word"
+  },
+  {
+   "text": "Mano",
+   "start": 48.6,
+   "end": 48.96,
+   "type": "word"
+  },
+  {
+   "text": "shu",
+   "start": 48.96,
+   "end": 49.1,
+   "type": "word"
+  },
+  {
+   "text": "eqsal,",
+   "start": 49.1,
+   "end": 49.42,
+   "type": "word"
+  },
+  {
+   "text": "sizi",
+   "start": 49.46,
+   "end": 49.6,
+   "type": "word"
+  },
+  {
+   "text": "qarizdarlikten",
+   "start": 49.6,
+   "end": 50.2,
+   "type": "word"
+  },
+  {
+   "text": "chixizgi",
+   "start": 50.2,
+   "end": 50.72,
+   "type": "word"
+  },
+  {
+   "text": "judeyan",
+   "start": 50.72,
+   "end": 51.04,
+   "type": "word"
+  },
+  {
+   "text": "qatda",
+   "start": 51.04,
+   "end": 51.27,
+   "type": "word"
+  },
+  {
+   "text": "yardan",
+   "start": 51.31,
+   "end": 51.58,
+   "type": "word"
+  },
+  {
+   "text": "beradi.",
+   "start": 51.58,
+   "end": 51.94,
+   "type": "word"
+  },
+  {
+   "text": "Shu",
+   "start": 52.04,
+   "end": 52.36,
+   "type": "word"
+  },
+  {
+   "text": "ishlarini",
+   "start": 52.36,
+   "end": 52.8,
+   "type": "word"
+  },
+  {
+   "text": "bugundan",
+   "start": 52.8,
+   "end": 53.14,
+   "type": "word"
+  },
+  {
+   "text": "bochla",
+   "start": 53.14,
+   "end": 53.42,
+   "type": "word"
+  },
+  {
+   "text": "bacarishini",
+   "start": 53.42,
+   "end": 53.87,
+   "type": "word"
+  },
+  {
+   "text": "bochlayin",
+   "start": 53.94,
+   "end": 54.32,
+   "type": "word"
+  },
+  {
+   "text": "ba",
+   "start": 54.32,
+   "end": 54.38,
+   "type": "word"
+  },
+  {
+   "text": "insha",
+   "start": 54.44,
+   "end": 54.8,
+   "type": "word"
+  },
+  {
+   "text": "Allah",
+   "start": 54.8,
+   "end": 54.98,
+   "type": "word"
+  },
+  {
+   "text": "qarizlarizdan",
+   "start": 54.98,
+   "end": 55.6,
+   "type": "word"
+  },
+  {
+   "text": "tez",
+   "start": 55.6,
+   "end": 55.86,
+   "type": "word"
+  },
+  {
+   "text": "oradi",
+   "start": 55.86,
+   "end": 56.1,
+   "type": "word"
+  },
+  {
+   "text": "qutilasis.",
+   "start": 56.1,
+   "end": 56.52,
+   "type": "word"
+  },
+  {
+   "text": "Videona",
+   "start": 56.78,
+   "end": 57.22,
+   "type": "word"
+  },
+  {
+   "text": "saklag",
+   "start": 57.22,
+   "end": 57.56,
+   "type": "word"
+  },
+  {
+   "text": "koyin,",
+   "start": 57.56,
+   "end": 57.9,
+   "type": "word"
+  },
+  {
+   "text": "yil",
+   "start": 58.0,
+   "end": 58.32,
+   "type": "word"
+  },
+  {
+   "text": "ahargi",
+   "start": 58.32,
+   "end": 58.78,
+   "type": "word"
+  },
+  {
+   "text": "barganla",
+   "start": 58.78,
+   "end": 59.4,
+   "type": "word"
+  },
+  {
+   "text": "qarizdarlikten",
+   "start": 59.4,
+   "end": 59.96,
+   "type": "word"
+  },
+  {
+   "text": "halas",
+   "start": 60.03,
+   "end": 60.34,
+   "type": "word"
+  },
+  {
+   "text": "bolib,",
+   "start": 60.34,
+   "end": 60.68,
+   "type": "word"
+  },
+  {
+   "text": "uf",
+   "start": 60.68,
+   "end": 60.9,
+   "type": "word"
+  },
+  {
+   "text": "bu",
+   "start": 60.92,
+   "end": 61.02,
+   "type": "word"
+  },
+  {
+   "text": "videomizi",
+   "start": 61.03,
+   "end": 61.66,
+   "type": "word"
+  },
+  {
+   "text": "qayti",
+   "start": 61.66,
+   "end": 61.98,
+   "type": "word"
+  },
+  {
+   "text": "korayin.",
+   "start": 61.98,
+   "end": 62.34,
+   "type": "word"
+  }
+ ],
+ "note": "whisper + energiya bo'yicha chegaralar"
+}

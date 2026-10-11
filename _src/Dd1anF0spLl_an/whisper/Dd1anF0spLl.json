@@ -1,0 +1,617 @@
+[
+ {
+  "text": "Gu",
+  "start": 0.0,
+  "end": 0.08
+ },
+ {
+  "text": "musaul",
+  "start": 0.08,
+  "end": 0.44
+ },
+ {
+  "text": "SAT",
+  "start": 0.44,
+  "end": 0.66
+ },
+ {
+  "text": "-ni",
+  "start": 0.66,
+  "end": 0.94
+ },
+ {
+  "text": "matematika",
+  "start": 0.94,
+  "end": 1.4
+ },
+ {
+  "text": "qisminda",
+  "start": 1.4,
+  "end": 1.74
+ },
+ {
+  "text": "kolp",
+  "start": 1.74,
+  "end": 2.22
+ },
+ {
+  "text": "takror",
+  "start": 2.22,
+  "end": 2.58
+ },
+ {
+  "text": "chushadigan",
+  "start": 2.58,
+  "end": 3.04
+ },
+ {
+  "text": "qiyin",
+  "start": 3.04,
+  "end": 3.44
+ },
+ {
+  "text": "soval",
+  "start": 3.44,
+  "end": 3.7
+ },
+ {
+  "text": "turgay",
+  "start": 3.7,
+  "end": 3.94
+ },
+ {
+  "text": "kiradi.",
+  "start": 3.94,
+  "end": 4.3
+ },
+ {
+  "text": "Buna",
+  "start": 4.42,
+  "end": 5.1
+ },
+ {
+  "text": "xaza",
+  "start": 5.1,
+  "end": 5.36
+ },
+ {
+  "text": "birgalykta",
+  "start": 5.36,
+  "end": 5.9
+ },
+ {
+  "text": "10",
+  "start": 5.9,
+  "end": 6.2
+ },
+ {
+  "text": "saniyada",
+  "start": 6.2,
+  "end": 6.62
+ },
+ {
+  "text": "ishlasiga",
+  "start": 6.62,
+  "end": 7.0
+ },
+ {
+  "text": "haragat",
+  "start": 7.0,
+  "end": 7.24
+ },
+ {
+  "text": "qilagmiz.",
+  "start": 7.24,
+  "end": 7.58
+ },
+ {
+  "text": "Xazil",
+  "start": 7.68,
+  "end": 8.22
+ },
+ {
+  "text": "sizgi",
+  "start": 8.22,
+  "end": 8.56
+ },
+ {
+  "text": "bittiv",
+  "start": 8.56,
+  "end": 8.9
+ },
+ {
+  "text": "surmina",
+  "start": 8.9,
+  "end": 9.14
+ },
+ {
+  "text": "orgat",
+  "start": 9.14,
+  "end": 9.36
+ },
+ {
+  "text": "qoyamin,",
+  "start": 9.36,
+  "end": 9.76
+ },
+ {
+  "text": "bu",
+  "start": 9.88,
+  "end": 10.1
+ },
+ {
+  "text": "orqali",
+  "start": 10.1,
+  "end": 10.5
+ },
+ {
+  "text": "SAT",
+  "start": 10.5,
+  "end": 10.88
+ },
+ {
+  "text": "-dagi",
+  "start": 10.88,
+  "end": 11.24
+ },
+ {
+  "text": "aynan",
+  "start": 11.24,
+  "end": 11.76
+ },
+ {
+  "text": "manashi",
+  "start": 11.76,
+  "end": 12.16
+ },
+ {
+  "text": "sogan",
+  "start": 12.16,
+  "end": 12.56
+ },
+ {
+  "text": "10",
+  "start": 12.56,
+  "end": 12.78
+ },
+ {
+  "text": "saniyada",
+  "start": 12.78,
+  "end": 13.28
+ },
+ {
+  "text": "ishlasigizminkor.",
+  "start": 13.28,
+  "end": 14.36
+ },
+ {
+  "text": "Bizidi",
+  "start": 14.46,
+  "end": 14.92
+ },
+ {
+  "text": "chizigli",
+  "start": 14.92,
+  "end": 15.38
+ },
+ {
+  "text": "teknologi",
+  "start": 15.38,
+  "end": 15.78
+ },
+ {
+  "text": "sistemasi",
+  "start": 15.78,
+  "end": 16.28
+ },
+ {
+  "text": "berligan,",
+  "start": 16.28,
+  "end": 16.8
+ },
+ {
+  "text": "yani",
+  "start": 16.86,
+  "end": 17.32
+ },
+ {
+  "text": "sisteman",
+  "start": 17.32,
+  "end": 17.74
+ },
+ {
+  "text": "belirsini",
+  "start": 17.74,
+  "end": 18.12
+ },
+ {
+  "text": "qoyisizan",
+  "start": 18.12,
+  "end": 18.64
+ },
+ {
+  "text": "boladi,",
+  "start": 18.64,
+  "end": 18.88
+ },
+ {
+  "text": "qoymasizan",
+  "start": 18.92,
+  "end": 19.52
+ },
+ {
+  "text": "boladi,",
+  "start": 19.52,
+  "end": 19.84
+ },
+ {
+  "text": "kalit",
+  "start": 19.96,
+  "end": 20.74
+ },
+ {
+  "text": "sozlogi",
+  "start": 20.74,
+  "end": 21.12
+ },
+ {
+  "text": "qarashims",
+  "start": 21.12,
+  "end": 21.54
+ },
+ {
+  "text": "kerek,",
+  "start": 21.54,
+  "end": 21.84
+ },
+ {
+  "text": "yani",
+  "start": 21.96,
+  "end": 22.14
+ },
+ {
+  "text": "aynan",
+  "start": 22.14,
+  "end": 22.56
+ },
+ {
+  "text": "nima",
+  "start": 22.56,
+  "end": 22.82
+ },
+ {
+  "text": "mukhum",
+  "start": 22.82,
+  "end": 23.22
+ },
+ {
+  "text": "bizidi.",
+  "start": 23.22,
+  "end": 23.5
+ },
+ {
+  "text": "Bizidan",
+  "start": 23.64,
+  "end": 24.26
+ },
+ {
+  "text": "any",
+  "start": 24.26,
+  "end": 24.72
+ },
+ {
+  "text": "values",
+  "start": 24.72,
+  "end": 25.18
+ },
+ {
+  "text": "-ni",
+  "start": 25.18,
+  "end": 25.36
+ },
+ {
+  "text": "topishims",
+  "start": 25.36,
+  "end": 25.72
+ },
+ {
+  "text": "kerek,",
+  "start": 25.72,
+  "end": 26.04
+ },
+ {
+  "text": "yani",
+  "start": 26.1,
+  "end": 26.32
+ },
+ {
+  "text": "hana",
+  "start": 26.32,
+  "end": 26.54
+ },
+ {
+  "text": "qimatini",
+  "start": 26.54,
+  "end": 27.04
+ },
+ {
+  "text": "kalitsuz,",
+  "start": 27.04,
+  "end": 28.12
+ },
+ {
+  "text": "no",
+  "start": 28.18,
+  "end": 28.48
+ },
+ {
+  "text": "solution.",
+  "start": 28.48,
+  "end": 29.04
+ },
+ {
+  "text": "yani",
+  "start": 29.04,
+  "end": 29.76
+ },
+ {
+  "text": "yechimgi",
+  "start": 29.76,
+  "end": 30.26
+ },
+ {
+  "text": "igiyemaz,",
+  "start": 30.26,
+  "end": 30.9
+ },
+ {
+  "text": "borsh",
+  "start": 30.92,
+  "end": 31.18
+ },
+ {
+  "text": "toplam",
+  "start": 31.18,
+  "end": 31.6
+ },
+ {
+  "text": "diga.",
+  "start": 31.6,
+  "end": 31.86
+ },
+ {
+  "text": "Cizigli",
+  "start": 32.24,
+  "end": 32.88
+ },
+ {
+  "text": "teynamari",
+  "start": 32.88,
+  "end": 33.32
+ },
+ {
+  "text": "sistemi",
+  "start": 33.32,
+  "end": 33.72
+ },
+ {
+  "text": "asti",
+  "start": 33.72,
+  "end": 34.0
+ },
+ {
+  "text": "borsh",
+  "start": 34.0,
+  "end": 34.3
+ },
+ {
+  "text": "toplamini",
+  "start": 34.3,
+  "end": 34.76
+ },
+ {
+  "text": "igi",
+  "start": 34.76,
+  "end": 35.06
+ },
+ {
+  "text": "bolosh",
+  "start": 35.06,
+  "end": 35.36
+ },
+ {
+  "text": "qoydasi",
+  "start": 35.36,
+  "end": 35.8
+ },
+ {
+  "text": "bawradi,",
+  "start": 35.8,
+  "end": 36.24
+ },
+ {
+  "text": "yani",
+  "start": 36.26,
+  "end": 36.4
+ },
+ {
+  "text": "formulasi,",
+  "start": 36.4,
+  "end": 36.98
+ },
+ {
+  "text": "minus",
+  "start": 37.08,
+  "end": 37.68
+ },
+ {
+  "text": "uch",
+  "start": 37.68,
+  "end": 38.18
+ },
+ {
+  "text": "bolamiz",
+  "start": 38.18,
+  "end": 38.94
+ },
+ {
+  "text": "a,",
+  "start": 38.94,
+  "end": 39.14
+ },
+ {
+  "text": "barobar,",
+  "start": 39.8,
+  "end": 40.44
+ },
+ {
+  "text": "bir",
+  "start": 40.44,
+  "end": 40.76
+ },
+ {
+  "text": "taksim",
+  "start": 40.76,
+  "end": 41.3
+ },
+ {
+  "text": "iki,",
+  "start": 41.3,
+  "end": 41.64
+ },
+ {
+  "text": "yani",
+  "start": 41.92,
+  "end": 42.36
+ },
+ {
+  "text": "kaifisintilan",
+  "start": 42.36,
+  "end": 43.02
+ },
+ {
+  "text": "nisbati",
+  "start": 43.02,
+  "end": 43.4
+ },
+ {
+  "text": "braxili",
+  "start": 43.4,
+  "end": 43.76
+ },
+ {
+  "text": "bolosh",
+  "start": 43.76,
+  "end": 44.0
+ },
+ {
+  "text": "keregidi.",
+  "start": 44.0,
+  "end": 44.38
+ },
+ {
+  "text": "Bundan",
+  "start": 44.62,
+  "end": 45.26
+ },
+ {
+  "text": "a",
+  "start": 45.26,
+  "end": 45.46
+ },
+ {
+  "text": "-ni",
+  "start": 45.46,
+  "end": 45.62
+ },
+ {
+  "text": "qimati",
+  "start": 45.62,
+  "end": 45.94
+ },
+ {
+  "text": "minus",
+  "start": 45.94,
+  "end": 46.4
+ },
+ {
+  "text": "ol",
+  "start": 46.4,
+  "end": 46.72
+ },
+ {
+  "text": "digi",
+  "start": 46.72,
+  "end": 47.04
+ },
+ {
+  "text": "teyn",
+  "start": 47.04,
+  "end": 47.22
+ },
+ {
+  "text": "qoladi.",
+  "start": 47.22,
+  "end": 47.54
+ },
+ {
+  "text": "Eseti",
+  "start": 47.66,
+  "end": 48.26
+ },
+ {
+  "text": "mes",
+  "start": 48.26,
+  "end": 48.48
+ },
+ {
+  "text": "bu",
+  "start": 48.48,
+  "end": 48.7
+ },
+ {
+  "text": "ichi",
+  "start": 48.7,
+  "end": 48.88
+ },
+ {
+  "text": "kopiroq",
+  "start": 48.88,
+  "end": 49.64
+ },
+ {
+  "text": "musollardi",
+  "start": 49.64,
+  "end": 50.2
+ },
+ {
+  "text": "korimaxchi",
+  "start": 50.2,
+  "end": 50.72
+ },
+ {
+  "text": "busayngiz,",
+  "start": 50.72,
+  "end": 51.22
+ },
+ {
+  "text": "sakhifamini",
+  "start": 51.22,
+  "end": 51.82
+ },
+ {
+  "text": "abona",
+  "start": 51.82,
+  "end": 52.12
+ },
+ {
+  "text": "qolib",
+  "start": 52.12,
+  "end": 52.34
+ },
+ {
+  "text": "koyim.",
+  "start": 52.34,
+  "end": 52.56
+ }
+]

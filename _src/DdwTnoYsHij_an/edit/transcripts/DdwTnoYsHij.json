@@ -1,0 +1,797 @@
+{
+ "words": [
+  {
+   "text": "SST",
+   "start": 0.16,
+   "end": 0.42,
+   "type": "word"
+  },
+  {
+   "text": "-nin",
+   "start": 0.46,
+   "end": 0.56,
+   "type": "word"
+  },
+  {
+   "text": "matematiki",
+   "start": 0.56,
+   "end": 0.94,
+   "type": "word"
+  },
+  {
+   "text": "qismidi,",
+   "start": 0.96,
+   "end": 1.3,
+   "type": "word"
+  },
+  {
+   "text": "musallarinin",
+   "start": 1.42,
+   "end": 2.16,
+   "type": "word"
+  },
+  {
+   "text": "ishlarisdini",
+   "start": 2.16,
+   "end": 2.5,
+   "type": "word"
+  },
+  {
+   "text": "bir",
+   "start": 2.61,
+   "end": 2.76,
+   "type": "word"
+  },
+  {
+   "text": "necdi",
+   "start": 2.85,
+   "end": 3.12,
+   "type": "word"
+  },
+  {
+   "text": "usullar",
+   "start": 3.2,
+   "end": 3.56,
+   "type": "word"
+  },
+  {
+   "text": "bar,",
+   "start": 3.56,
+   "end": 3.74,
+   "type": "word"
+  },
+  {
+   "text": "lekin",
+   "start": 4.33,
+   "end": 4.46,
+   "type": "word"
+  },
+  {
+   "text": "xazir",
+   "start": 4.47,
+   "end": 4.78,
+   "type": "word"
+  },
+  {
+   "text": "sizlagi",
+   "start": 4.78,
+   "end": 5.18,
+   "type": "word"
+  },
+  {
+   "text": "aynan",
+   "start": 5.18,
+   "end": 5.58,
+   "type": "word"
+  },
+  {
+   "text": "shu",
+   "start": 5.58,
+   "end": 5.79,
+   "type": "word"
+  },
+  {
+   "text": "musallini",
+   "start": 5.83,
+   "end": 6.22,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 6.22,
+   "end": 6.44,
+   "type": "word"
+  },
+  {
+   "text": "qisqa",
+   "start": 6.44,
+   "end": 7.1,
+   "type": "word"
+  },
+  {
+   "text": "usulda",
+   "start": 7.1,
+   "end": 7.5,
+   "type": "word"
+  },
+  {
+   "text": "ishlaris",
+   "start": 7.5,
+   "end": 7.84,
+   "type": "word"
+  },
+  {
+   "text": "yolun",
+   "start": 7.84,
+   "end": 8.06,
+   "type": "word"
+  },
+  {
+   "text": "orga",
+   "start": 8.06,
+   "end": 8.26,
+   "type": "word"
+  },
+  {
+   "text": "tamir.",
+   "start": 8.26,
+   "end": 8.5,
+   "type": "word"
+  },
+  {
+   "text": "Bu",
+   "start": 8.86,
+   "end": 8.91,
+   "type": "word"
+  },
+  {
+   "text": "musallini",
+   "start": 8.9,
+   "end": 9.5,
+   "type": "word"
+  },
+  {
+   "text": "kobu",
+   "start": 9.5,
+   "end": 10.03,
+   "type": "word"
+  },
+  {
+   "text": "haqqetadigan",
+   "start": 10.03,
+   "end": 10.66,
+   "type": "word"
+  },
+  {
+   "text": "usul",
+   "start": 10.66,
+   "end": 11.02,
+   "type": "word"
+  },
+  {
+   "text": "orqala",
+   "start": 11.02,
+   "end": 11.36,
+   "type": "word"
+  },
+  {
+   "text": "ishlidiyan",
+   "start": 11.36,
+   "end": 11.82,
+   "type": "word"
+  },
+  {
+   "text": "busik,",
+   "start": 11.82,
+   "end": 12.2,
+   "type": "word"
+  },
+  {
+   "text": "yani",
+   "start": 12.26,
+   "end": 12.52,
+   "type": "word"
+  },
+  {
+   "text": "nomalimlarinin",
+   "start": 12.52,
+   "end": 13.58,
+   "type": "word"
+  },
+  {
+   "text": "xar",
+   "start": 13.58,
+   "end": 13.9,
+   "type": "word"
+  },
+  {
+   "text": "bettasini",
+   "start": 13.9,
+   "end": 14.35,
+   "type": "word"
+  },
+  {
+   "text": "qimatini",
+   "start": 14.44,
+   "end": 15.0,
+   "type": "word"
+  },
+  {
+   "text": "topishimizga",
+   "start": 15.0,
+   "end": 15.62,
+   "type": "word"
+  },
+  {
+   "text": "toru",
+   "start": 15.62,
+   "end": 15.86,
+   "type": "word"
+  },
+  {
+   "text": "kilad.",
+   "start": 15.86,
+   "end": 16.12,
+   "type": "word"
+  },
+  {
+   "text": "Biz",
+   "start": 16.83,
+   "end": 16.97,
+   "type": "word"
+  },
+  {
+   "text": "busi",
+   "start": 16.99,
+   "end": 17.39,
+   "type": "word"
+  },
+  {
+   "text": "fadarinin",
+   "start": 17.39,
+   "end": 17.96,
+   "type": "word"
+  },
+  {
+   "text": "qoğusini",
+   "start": 17.96,
+   "end": 18.39,
+   "type": "word"
+  },
+  {
+   "text": "kobay",
+   "start": 18.53,
+   "end": 19.12,
+   "type": "word"
+  },
+  {
+   "text": "turucilagi",
+   "start": 19.12,
+   "end": 19.5,
+   "type": "word"
+  },
+  {
+   "text": "ajatamiz.",
+   "start": 19.5,
+   "end": 19.98,
+   "type": "word"
+  },
+  {
+   "text": "Yani,",
+   "start": 20.59,
+   "end": 20.7,
+   "type": "word"
+  },
+  {
+   "text": "birinci",
+   "start": 20.72,
+   "end": 21.06,
+   "type": "word"
+  },
+  {
+   "text": "qoğuz",
+   "start": 21.06,
+   "end": 21.34,
+   "type": "word"
+  },
+  {
+   "text": "os",
+   "start": 21.34,
+   "end": 21.52,
+   "type": "word"
+  },
+  {
+   "text": "xalatida",
+   "start": 21.52,
+   "end": 21.93,
+   "type": "word"
+  },
+  {
+   "text": "turadi,",
+   "start": 22.0,
+   "end": 22.34,
+   "type": "word"
+  },
+  {
+   "text": "ikinci",
+   "start": 23.47,
+   "end": 23.65,
+   "type": "word"
+  },
+  {
+   "text": "qoğusini",
+   "start": 23.65,
+   "end": 24.08,
+   "type": "word"
+  },
+  {
+   "text": "busakam,",
+   "start": 24.15,
+   "end": 24.65,
+   "type": "word"
+  },
+  {
+   "text": "ikita",
+   "start": 24.69,
+   "end": 25.03,
+   "type": "word"
+  },
+  {
+   "text": "qoğuski",
+   "start": 25.11,
+   "end": 25.46,
+   "type": "word"
+  },
+  {
+   "text": "ajatamiz.",
+   "start": 25.51,
+   "end": 25.93,
+   "type": "word"
+  },
+  {
+   "text": "Anayindi,",
+   "start": 28.44,
+   "end": 28.78,
+   "type": "word"
+  },
+  {
+   "text": "bizdi",
+   "start": 28.88,
+   "end": 29.26,
+   "type": "word"
+  },
+  {
+   "text": "berilgin",
+   "start": 29.33,
+   "end": 30.06,
+   "type": "word"
+  },
+  {
+   "text": "malumatik",
+   "start": 30.06,
+   "end": 30.68,
+   "type": "word"
+  },
+  {
+   "text": "yaxarimiz.",
+   "start": 30.79,
+   "end": 31.12,
+   "type": "word"
+  },
+  {
+   "text": "Yani,",
+   "start": 31.16,
+   "end": 31.76,
+   "type": "word"
+  },
+  {
+   "text": "bizidin",
+   "start": 31.8,
+   "end": 33.02,
+   "type": "word"
+  },
+  {
+   "text": "iki",
+   "start": 33.02,
+   "end": 33.41,
+   "type": "word"
+  },
+  {
+   "text": "rasadini",
+   "start": 33.55,
+   "end": 34.1,
+   "type": "word"
+  },
+  {
+   "text": "yigindisi",
+   "start": 34.1,
+   "end": 34.64,
+   "type": "word"
+  },
+  {
+   "text": "beşge",
+   "start": 34.64,
+   "end": 35.1,
+   "type": "word"
+  },
+  {
+   "text": "teyindir",
+   "start": 35.1,
+   "end": 35.5,
+   "type": "word"
+  },
+  {
+   "text": "bergan,",
+   "start": 35.5,
+   "end": 35.88,
+   "type": "word"
+  },
+  {
+   "text": "ular",
+   "start": 36.0,
+   "end": 36.29,
+   "type": "word"
+  },
+  {
+   "text": "da",
+   "start": 36.29,
+   "end": 36.44,
+   "type": "word"
+  },
+  {
+   "text": "ayirmisi",
+   "start": 36.44,
+   "end": 36.96,
+   "type": "word"
+  },
+  {
+   "text": "iki",
+   "start": 36.96,
+   "end": 37.19,
+   "type": "word"
+  },
+  {
+   "text": "ge",
+   "start": 37.27,
+   "end": 37.4,
+   "type": "word"
+  },
+  {
+   "text": "teyindir.",
+   "start": 37.4,
+   "end": 37.81,
+   "type": "word"
+  },
+  {
+   "text": "Yani,",
+   "start": 38.36,
+   "end": 38.46,
+   "type": "word"
+  },
+  {
+   "text": "qoğuslar",
+   "start": 38.46,
+   "end": 38.92,
+   "type": "word"
+  },
+  {
+   "text": "da",
+   "start": 38.96,
+   "end": 39.08,
+   "type": "word"
+  },
+  {
+   "text": "ornaya",
+   "start": 39.08,
+   "end": 39.36,
+   "type": "word"
+  },
+  {
+   "text": "koyu",
+   "start": 39.36,
+   "end": 39.58,
+   "type": "word"
+  },
+  {
+   "text": "oramiz.",
+   "start": 39.58,
+   "end": 39.89,
+   "type": "word"
+  },
+  {
+   "text": "Birinci",
+   "start": 40.34,
+   "end": 40.65,
+   "type": "word"
+  },
+  {
+   "text": "qoğusunuzda",
+   "start": 40.65,
+   "end": 41.24,
+   "type": "word"
+  },
+  {
+   "text": "qiymati",
+   "start": 41.24,
+   "end": 41.58,
+   "type": "word"
+  },
+  {
+   "text": "iki",
+   "start": 41.58,
+   "end": 41.81,
+   "type": "word"
+  },
+  {
+   "text": "ge",
+   "start": 41.86,
+   "end": 41.98,
+   "type": "word"
+  },
+  {
+   "text": "teyindir,",
+   "start": 41.98,
+   "end": 42.32,
+   "type": "word"
+  },
+  {
+   "text": "ikinci",
+   "start": 42.42,
+   "end": 42.98,
+   "type": "word"
+  },
+  {
+   "text": "siyam",
+   "start": 42.98,
+   "end": 43.22,
+   "type": "word"
+  },
+  {
+   "text": "iki",
+   "start": 43.22,
+   "end": 43.42,
+   "type": "word"
+  },
+  {
+   "text": "ge",
+   "start": 43.42,
+   "end": 43.6,
+   "type": "word"
+  },
+  {
+   "text": "teyindir,",
+   "start": 43.6,
+   "end": 44.0,
+   "type": "word"
+  },
+  {
+   "text": "hamda",
+   "start": 44.0,
+   "end": 44.44,
+   "type": "word"
+  },
+  {
+   "text": "üçüncüsü",
+   "start": 44.44,
+   "end": 44.96,
+   "type": "word"
+  },
+  {
+   "text": "beşge",
+   "start": 44.97,
+   "end": 45.34,
+   "type": "word"
+  },
+  {
+   "text": "teyindir.",
+   "start": 45.34,
+   "end": 45.55,
+   "type": "word"
+  },
+  {
+   "text": "Vah,",
+   "start": 45.76,
+   "end": 46.08,
+   "type": "word"
+  },
+  {
+   "text": "hamasin",
+   "start": 46.1,
+   "end": 46.47,
+   "type": "word"
+  },
+  {
+   "text": "orasidi",
+   "start": 46.5,
+   "end": 46.81,
+   "type": "word"
+  },
+  {
+   "text": "kopayatiris",
+   "start": 46.93,
+   "end": 47.42,
+   "type": "word"
+  },
+  {
+   "text": "belgisi",
+   "start": 47.42,
+   "end": 47.74,
+   "type": "word"
+  },
+  {
+   "text": "bo.",
+   "start": 47.8,
+   "end": 47.94,
+   "type": "word"
+  },
+  {
+   "text": "Natijamiz,",
+   "start": 48.54,
+   "end": 49.1,
+   "type": "word"
+  },
+  {
+   "text": "bizidi",
+   "start": 49.22,
+   "end": 49.4,
+   "type": "word"
+  },
+  {
+   "text": "yigirmage",
+   "start": 49.4,
+   "end": 50.24,
+   "type": "word"
+  },
+  {
+   "text": "teyindir",
+   "start": 50.24,
+   "end": 50.72,
+   "type": "word"
+  },
+  {
+   "text": "bolad.",
+   "start": 50.72,
+   "end": 50.9,
+   "type": "word"
+  },
+  {
+   "text": "Misallarini",
+   "start": 51.18,
+   "end": 51.84,
+   "type": "word"
+  },
+  {
+   "text": "xudusundi,",
+   "start": 51.84,
+   "end": 52.62,
+   "type": "word"
+  },
+  {
+   "text": "oson",
+   "start": 52.64,
+   "end": 53.12,
+   "type": "word"
+  },
+  {
+   "text": "islansini",
+   "start": 53.12,
+   "end": 53.62,
+   "type": "word"
+  },
+  {
+   "text": "korumakchi",
+   "start": 53.66,
+   "end": 54.14,
+   "type": "word"
+  },
+  {
+   "text": "usayengiz,",
+   "start": 54.19,
+   "end": 54.74,
+   "type": "word"
+  },
+  {
+   "text": "YouTube",
+   "start": 54.83,
+   "end": 55.02,
+   "type": "word"
+  },
+  {
+   "text": "kanalimda",
+   "start": 55.02,
+   "end": 55.66,
+   "type": "word"
+  },
+  {
+   "text": "video",
+   "start": 55.66,
+   "end": 56.26,
+   "type": "word"
+  },
+  {
+   "text": "darsiglari",
+   "start": 56.26,
+   "end": 56.86,
+   "type": "word"
+  },
+  {
+   "text": "bo.",
+   "start": 56.86,
+   "end": 56.96,
+   "type": "word"
+  },
+  {
+   "text": "Olus",
+   "start": 57.06,
+   "end": 57.62,
+   "type": "word"
+  },
+  {
+   "text": "uchun,",
+   "start": 57.62,
+   "end": 57.98,
+   "type": "word"
+  },
+  {
+   "text": "izoklardi",
+   "start": 57.98,
+   "end": 58.5,
+   "type": "word"
+  },
+  {
+   "text": "YouTube",
+   "start": 58.5,
+   "end": 58.94,
+   "type": "word"
+  },
+  {
+   "text": "suzini",
+   "start": 58.94,
+   "end": 59.36,
+   "type": "word"
+  },
+  {
+   "text": "azib",
+   "start": 59.36,
+   "end": 59.62,
+   "type": "word"
+  },
+  {
+   "text": "qalirik,",
+   "start": 59.62,
+   "end": 60.0,
+   "type": "word"
+  },
+  {
+   "text": "ve",
+   "start": 60.0,
+   "end": 60.05,
+   "type": "word"
+  },
+  {
+   "text": "siz",
+   "start": 60.2,
+   "end": 60.33,
+   "type": "word"
+  },
+  {
+   "text": "gibi",
+   "start": 60.36,
+   "end": 60.56,
+   "type": "word"
+  },
+  {
+   "text": "borup",
+   "start": 60.56,
+   "end": 60.82,
+   "type": "word"
+  },
+  {
+   "text": "koyalım.",
+   "start": 60.93,
+   "end": 61.05,
+   "type": "word"
+  }
+ ],
+ "note": "whisper + energiya bo'yicha chegaralar"
+}

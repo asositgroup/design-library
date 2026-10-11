@@ -1,0 +1,347 @@
+[
+ {
+  "text": "Istanfona",
+  "start": 0.0,
+  "end": 0.42
+ },
+ {
+  "text": "ki,",
+  "start": 0.42,
+  "end": 0.58
+ },
+ {
+  "text": "SAT",
+  "start": 0.64,
+  "end": 0.94
+ },
+ {
+  "text": "-ni",
+  "start": 0.94,
+  "end": 1.18
+ },
+ {
+  "text": "oriyani",
+  "start": 1.18,
+  "end": 1.54
+ },
+ {
+  "text": "etkanda",
+  "start": 1.54,
+  "end": 1.82
+ },
+ {
+  "text": "en",
+  "start": 1.82,
+  "end": 2.04
+ },
+ {
+  "text": "islamaydiyan",
+  "start": 2.04,
+  "end": 2.72
+ },
+ {
+  "text": "adat",
+  "start": 2.72,
+  "end": 3.02
+ },
+ {
+  "text": "kaysi,",
+  "start": 3.02,
+  "end": 3.44
+ },
+ {
+  "text": "kopchilik",
+  "start": 3.44,
+  "end": 3.82
+ },
+ {
+  "text": "kiladigan?",
+  "start": 3.82,
+  "end": 4.22
+ },
+ {
+  "text": "Birintisi,",
+  "start": 4.58,
+  "end": 5.18
+ },
+ {
+  "text": "fakat",
+  "start": 5.26,
+  "end": 5.76
+ },
+ {
+  "text": "praiksike",
+  "start": 5.76,
+  "end": 6.24
+ },
+ {
+  "text": "otorib",
+  "start": 6.24,
+  "end": 6.58
+ },
+ {
+  "text": "qalish,",
+  "start": 6.58,
+  "end": 6.88
+ },
+ {
+  "text": "yani",
+  "start": 6.92,
+  "end": 7.08
+ },
+ {
+  "text": "irtalibdan",
+  "start": 7.08,
+  "end": 7.66
+ },
+ {
+  "text": "kech",
+  "start": 7.66,
+  "end": 8.06
+ },
+ {
+  "text": "-kechir",
+  "start": 8.06,
+  "end": 8.34
+ },
+ {
+  "text": "praiksik",
+  "start": 8.34,
+  "end": 8.76
+ },
+ {
+  "text": "ilib,",
+  "start": 8.76,
+  "end": 9.02
+ },
+ {
+  "text": "xatolari",
+  "start": 9.02,
+  "end": 9.56
+ },
+ {
+  "text": "usudu",
+  "start": 9.56,
+  "end": 9.86
+ },
+ {
+  "text": "islamasliyib.",
+  "start": 9.86,
+  "end": 10.52
+ },
+ {
+  "text": "Ikinsisi",
+  "start": 10.76,
+  "end": 11.36
+ },
+ {
+  "text": "ge",
+  "start": 11.36,
+  "end": 11.46
+ },
+ {
+  "text": "kiladigan",
+  "start": 11.46,
+  "end": 11.82
+ },
+ {
+  "text": "busik,",
+  "start": 11.82,
+  "end": 12.12
+ },
+ {
+  "text": "time",
+  "start": 12.18,
+  "end": 12.42
+ },
+ {
+  "text": "management.",
+  "start": 12.42,
+  "end": 12.76
+ },
+ {
+  "text": "Yani,",
+  "start": 13.02,
+  "end": 13.36
+ },
+ {
+  "text": "aynan",
+  "start": 13.42,
+  "end": 13.86
+ },
+ {
+  "text": "matematika",
+  "start": 13.86,
+  "end": 14.38
+ },
+ {
+  "text": "qismida",
+  "start": 14.38,
+  "end": 14.72
+ },
+ {
+  "text": "ikintisi",
+  "start": 14.72,
+  "end": 15.26
+ },
+ {
+  "text": "di,",
+  "start": 15.26,
+  "end": 15.44
+ },
+ {
+  "text": "kopchilik",
+  "start": 15.5,
+  "end": 16.2
+ },
+ {
+  "text": "vaqti",
+  "start": 16.2,
+  "end": 16.5
+ },
+ {
+  "text": "etibar",
+  "start": 16.5,
+  "end": 16.94
+ },
+ {
+  "text": "vermastan",
+  "start": 16.94,
+  "end": 17.44
+ },
+ {
+  "text": "torib",
+  "start": 17.44,
+  "end": 17.66
+ },
+ {
+  "text": "isliyidi,",
+  "start": 17.66,
+  "end": 18.02
+ },
+ {
+  "text": "sunun",
+  "start": 18.12,
+  "end": 18.5
+ },
+ {
+  "text": "natijasidi,",
+  "start": 18.5,
+  "end": 19.1
+ },
+ {
+  "text": "oqordagi",
+  "start": 19.28,
+  "end": 20.06
+ },
+ {
+  "text": "5",
+  "start": 20.06,
+  "end": 20.24
+ },
+ {
+  "text": "-6",
+  "start": 20.24,
+  "end": 20.52
+ },
+ {
+  "text": "-ta",
+  "start": 20.52,
+  "end": 20.66
+ },
+ {
+  "text": "soqilgi",
+  "start": 20.66,
+  "end": 20.98
+ },
+ {
+  "text": "vaqti",
+  "start": 20.98,
+  "end": 21.22
+ },
+ {
+  "text": "etmaya",
+  "start": 21.22,
+  "end": 21.5
+ },
+ {
+  "text": "qalad.",
+  "start": 21.5,
+  "end": 21.78
+ },
+ {
+  "text": "SAT",
+  "start": 21.9,
+  "end": 22.28
+ },
+ {
+  "text": "-ki",
+  "start": 22.28,
+  "end": 22.48
+ },
+ {
+  "text": "tayinlanish",
+  "start": 22.48,
+  "end": 22.9
+ },
+ {
+  "text": "maqtidi,",
+  "start": 22.9,
+  "end": 23.14
+ },
+ {
+  "text": "kuydagi",
+  "start": 23.32,
+  "end": 23.78
+ },
+ {
+  "text": "ikiti",
+  "start": 23.78,
+  "end": 24.12
+ },
+ {
+  "text": "xatodan",
+  "start": 24.12,
+  "end": 24.64
+ },
+ {
+  "text": "kaysi",
+  "start": 24.64,
+  "end": 25.06
+ },
+ {
+  "text": "birini",
+  "start": 25.06,
+  "end": 25.28
+ },
+ {
+  "text": "kopra",
+  "start": 25.28,
+  "end": 25.58
+ },
+ {
+  "text": "oqilasiz,",
+  "start": 25.58,
+  "end": 26.08
+ },
+ {
+  "text": "iz",
+  "start": 26.1,
+  "end": 26.32
+ },
+ {
+  "text": "oqilarda",
+  "start": 26.32,
+  "end": 26.72
+ },
+ {
+  "text": "yazib",
+  "start": 26.72,
+  "end": 26.98
+ },
+ {
+  "text": "qaldiriyib.",
+  "start": 26.98,
+  "end": 27.38
+ }
+]

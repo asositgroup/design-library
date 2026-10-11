@@ -1,0 +1,472 @@
+[
+ {
+  "text": "SAT",
+  "start": 0.0,
+  "end": 0.18
+ },
+ {
+  "text": "-iye",
+  "start": 0.18,
+  "end": 0.46
+ },
+ {
+  "text": "uydatun",
+  "start": 0.46,
+  "end": 1.0
+ },
+ {
+  "text": "payalanish",
+  "start": 1.0,
+  "end": 1.5
+ },
+ {
+  "text": "uchun",
+  "start": 1.5,
+  "end": 1.76
+ },
+ {
+  "text": "sayt",
+  "start": 1.76,
+  "end": 2.02
+ },
+ {
+  "text": "bar",
+  "start": 2.02,
+  "end": 2.16
+ },
+ {
+  "text": "mi?",
+  "start": 2.16,
+  "end": 2.3
+ },
+ {
+  "text": "Ha,",
+  "start": 2.6,
+  "end": 3.12
+ },
+ {
+  "text": "albat,",
+  "start": 3.16,
+  "end": 3.42
+ },
+ {
+  "text": "SAT",
+  "start": 3.42,
+  "end": 3.64
+ },
+ {
+  "text": "Ecosystem",
+  "start": 3.64,
+  "end": 4.36
+ },
+ {
+  "text": ".us",
+  "start": 4.36,
+  "end": 4.84
+ },
+ {
+  "text": "SAT",
+  "start": 4.84,
+  "end": 5.32
+ },
+ {
+  "text": "-in",
+  "start": 5.32,
+  "end": 5.54
+ },
+ {
+  "text": "uyanilish",
+  "start": 5.54,
+  "end": 6.0
+ },
+ {
+  "text": "uchun",
+  "start": 6.0,
+  "end": 6.22
+ },
+ {
+  "text": "Tekin",
+  "start": 6.22,
+  "end": 6.46
+ },
+ {
+  "text": "Ilava",
+  "start": 6.46,
+  "end": 6.66
+ },
+ {
+  "text": "bar",
+  "start": 6.66,
+  "end": 6.86
+ },
+ {
+  "text": "mi?",
+  "start": 6.86,
+  "end": 7.0
+ },
+ {
+  "text": "Albat",
+  "start": 7.08,
+  "end": 7.58
+ },
+ {
+  "text": "da",
+  "start": 7.58,
+  "end": 7.72
+ },
+ {
+  "text": "bar,",
+  "start": 7.72,
+  "end": 7.92
+ },
+ {
+  "text": "Khan",
+  "start": 8.0,
+  "end": 8.22
+ },
+ {
+  "text": "Academy",
+  "start": 8.22,
+  "end": 8.42
+ },
+ {
+  "text": "SAT",
+  "start": 8.42,
+  "end": 9.26
+ },
+ {
+  "text": "-in",
+  "start": 9.26,
+  "end": 9.48
+ },
+ {
+  "text": "uyanilish",
+  "start": 9.48,
+  "end": 9.84
+ },
+ {
+  "text": "uchun",
+  "start": 9.84,
+  "end": 10.0
+ },
+ {
+  "text": "en",
+  "start": 10.0,
+  "end": 10.08
+ },
+ {
+  "text": "yash",
+  "start": 10.08,
+  "end": 10.32
+ },
+ {
+  "text": "kitab",
+  "start": 10.32,
+  "end": 10.64
+ },
+ {
+  "text": "chi?",
+  "start": 10.64,
+  "end": 10.76
+ },
+ {
+  "text": "Ozbegla",
+  "start": 11.22,
+  "end": 11.74
+ },
+ {
+  "text": "uchun",
+  "start": 11.74,
+  "end": 12.1
+ },
+ {
+  "text": "SAT",
+  "start": 12.1,
+  "end": 12.34
+ },
+ {
+  "text": "Foundation",
+  "start": 12.34,
+  "end": 12.84
+ },
+ {
+  "text": "kutabı,",
+  "start": 12.84,
+  "end": 13.56
+ },
+ {
+  "text": "sababı",
+  "start": 13.56,
+  "end": 14.04
+ },
+ {
+  "text": "muhaliflar",
+  "start": 14.04,
+  "end": 14.46
+ },
+ {
+  "text": "Ozbegla",
+  "start": 14.46,
+  "end": 14.9
+ },
+ {
+  "text": "kusoplanan",
+  "start": 14.9,
+  "end": 15.44
+ },
+ {
+  "text": "SAT",
+  "start": 15.44,
+  "end": 15.7
+ },
+ {
+  "text": "-ini",
+  "start": 15.7,
+  "end": 16.04
+ },
+ {
+  "text": "bi",
+  "start": 16.04,
+  "end": 16.16
+ },
+ {
+  "text": "pulgu",
+  "start": 16.16,
+  "end": 16.44
+ },
+ {
+  "text": "uyanilish",
+  "start": 16.44,
+  "end": 16.76
+ },
+ {
+  "text": "uchun",
+  "start": 16.76,
+  "end": 17.0
+ },
+ {
+  "text": "YouTube",
+  "start": 17.0,
+  "end": 17.18
+ },
+ {
+  "text": "kanallara",
+  "start": 17.18,
+  "end": 17.62
+ },
+ {
+  "text": "bar",
+  "start": 17.62,
+  "end": 17.8
+ },
+ {
+  "text": "mi?",
+  "start": 17.8,
+  "end": 17.9
+ },
+ {
+  "text": "YouTube",
+  "start": 18.3,
+  "end": 18.82
+ },
+ {
+  "text": "-dagi",
+  "start": 18.82,
+  "end": 19.02
+ },
+ {
+  "text": "basa",
+  "start": 19.02,
+  "end": 19.28
+ },
+ {
+  "text": "kanallarda",
+  "start": 19.28,
+  "end": 19.8
+ },
+ {
+  "text": "bilmadim,",
+  "start": 19.8,
+  "end": 20.32
+ },
+ {
+  "text": "lekin",
+  "start": 20.36,
+  "end": 20.64
+ },
+ {
+  "text": "YouTube",
+  "start": 20.64,
+  "end": 21.08
+ },
+ {
+  "text": "-da",
+  "start": 21.08,
+  "end": 21.32
+ },
+ {
+  "text": "ozumda",
+  "start": 21.32,
+  "end": 21.84
+ },
+ {
+  "text": "SAT",
+  "start": 21.84,
+  "end": 22.24
+ },
+ {
+  "text": "kanalimiz",
+  "start": 22.24,
+  "end": 22.78
+ },
+ {
+  "text": "bar",
+  "start": 22.78,
+  "end": 23.0
+ },
+ {
+  "text": "Bunda",
+  "start": 23.0,
+  "end": 23.54
+ },
+ {
+  "text": "SAT",
+  "start": 23.54,
+  "end": 24.14
+ },
+ {
+  "text": "-in",
+  "start": 24.14,
+  "end": 24.34
+ },
+ {
+  "text": "matematika",
+  "start": 24.34,
+  "end": 24.82
+ },
+ {
+  "text": "qismida",
+  "start": 24.82,
+  "end": 25.1
+ },
+ {
+  "text": "nol",
+  "start": 25.1,
+  "end": 25.52
+ },
+ {
+  "text": "dan",
+  "start": 25.52,
+  "end": 25.72
+ },
+ {
+  "text": "sekinlikta",
+  "start": 25.72,
+  "end": 26.44
+ },
+ {
+  "text": "uyanilish",
+  "start": 26.44,
+  "end": 26.86
+ },
+ {
+  "text": "uyanilish",
+  "start": 26.86,
+  "end": 27.14
+ },
+ {
+  "text": "uyanilish",
+  "start": 27.14,
+  "end": 27.34
+ },
+ {
+  "text": "video",
+  "start": 27.34,
+  "end": 27.34
+ },
+ {
+  "text": "darslarimiz",
+  "start": 27.34,
+  "end": 27.84
+ },
+ {
+  "text": "bar",
+  "start": 27.84,
+  "end": 28.04
+ },
+ {
+  "text": "Youtube",
+  "start": 28.04,
+  "end": 29.06
+ },
+ {
+  "text": "kanalimizin",
+  "start": 29.06,
+  "end": 29.72
+ },
+ {
+  "text": "linkini",
+  "start": 29.72,
+  "end": 30.18
+ },
+ {
+  "text": "alishchun,",
+  "start": 30.18,
+  "end": 30.68
+ },
+ {
+  "text": "izoklarda",
+  "start": 30.68,
+  "end": 31.18
+ },
+ {
+  "text": "Youtube",
+  "start": 31.18,
+  "end": 31.52
+ },
+ {
+  "text": "suzunu",
+  "start": 31.52,
+  "end": 31.94
+ },
+ {
+  "text": "yazip",
+  "start": 31.94,
+  "end": 32.2
+ },
+ {
+  "text": "koldirik,",
+  "start": 32.2,
+  "end": 32.62
+ },
+ {
+  "text": "men",
+  "start": 32.7,
+  "end": 32.84
+ },
+ {
+  "text": "sizgi",
+  "start": 32.84,
+  "end": 33.18
+ },
+ {
+  "text": "kanalda",
+  "start": 33.18,
+  "end": 33.62
+ },
+ {
+  "text": "linkini",
+  "start": 33.62,
+  "end": 33.94
+ },
+ {
+  "text": "varip",
+  "start": 33.94,
+  "end": 34.24
+ },
+ {
+  "text": "koyma.",
+  "start": 34.24,
+  "end": 34.48
+ }
+]

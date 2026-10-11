@@ -1,0 +1,47 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "end": 4.538,
+  "len": 4.54,
+  "luma_p2": 0.02,
+  "luma_p50": 0.302,
+  "luma_p98": 0.886,
+  "contrast": 0.248,
+  "sat": 0.477,
+  "warm": 0.188,
+  "bw": false,
+  "motion": 6.98,
+  "words": "Istanfona ki, SAT -ni oriyani etkanda en islamaydiyan adat kaysi, kopchilik kiladigan?"
+ },
+ {
+  "i": 1,
+  "start": 4.538,
+  "end": 21.922,
+  "len": 17.38,
+  "luma_p2": 0.012,
+  "luma_p50": 0.214,
+  "luma_p98": 0.556,
+  "contrast": 0.158,
+  "sat": 0.473,
+  "warm": 0.147,
+  "bw": false,
+  "motion": 3.59,
+  "words": "Birintisi, fakat praiksike otorib qalish, yani irtalibdan kech -kechir praiksik ilib, xatolari usudu islamasliyib. Ikins"
+ },
+ {
+  "i": 2,
+  "start": 21.922,
+  "end": 27.560894,
+  "len": 5.64,
+  "luma_p2": 0.012,
+  "luma_p50": 0.212,
+  "luma_p98": 0.574,
+  "contrast": 0.168,
+  "sat": 0.461,
+  "warm": 0.142,
+  "bw": false,
+  "motion": 3.66,
+  "words": "SAT -ki tayinlanish maqtidi, kuydagi ikiti xatodan kaysi birini kopra oqilasiz, iz oqilarda yazib qaldiriyib."
+ }
+]

@@ -1,0 +1,7 @@
+# Packed transcripts
+
+Phrase-level, grouped on silences ≥ 0.3s or speaker change.
+Use `[start-end]` ranges to address cuts in the EDL.
+
+## Dd_wDslI42c  (duration: 1m 02.3s, 1 phrases)
+  [000.03-062.34] Agar shu yilin aqhari gechi an karizdarilikdan budkul xalaz bolib maliyyay verkiliki chqishin xoqlasangiz, manashu, shiteyishni darxal qilin. Va, uchunchisini qobchilik insalik qimidi. Aslina agin, manashu, uchunchi ish qobchilik insalilarni karizdarlikdan chqishike yardan veradi. Birunchisi, yangi kariz alushlarini vaxtinche toqtatin. Fakat bu sefar, key sefar qaytar mima, key sefardan ujibosh qochi boladi, key bi baxanalar bulan, yana qayta qayta kariz oğuradi gyan boziz, qarizni yabib ikinchi yangi qarizgi qirib qeta verasiz. Awal pul qirib qeto atgan tezhikni yabish qeri. Ikincisi, xar bir qarizizi qogazgi yazib qetin. Kimdan kancha qariziz bar, kachan ge can tola shiz keri va aygi kancha summadan tola vas. Hamasini bitda qib yazish keri. Uchincisi, qarizdarlikdan in tez chqishizgi yardan bera digan yol bu ixsan. Ixsanin yaxsh qorish va qolizda kancha summa bar bora digan bose mana shu summani on qarizini ixsan qirish qeri. Mano shu eqsal, sizi qarizdarlikten chixizgi judeyan qatda yardan beradi. Shu ishlarini bugundan bochla bacarishini bochlayin ba insha Allah qarizlarizdan tez oradi qutilasis. Videona saklag koyin, yil ahargi barganla qarizdarlikten halas bolib, uf bu videomizi qayti korayin.

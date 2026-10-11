@@ -1,0 +1,8 @@
+# _src: referens videolar/audio/rasmlar repoga kirmaydi (mualliflik huquqi) — faqat tahlil hisobotlari (.md, .json)
+_src/**
+!_src/
+!_src/**/
+!_src/**/*.md
+!_src/**/*.json
+.DS_Store
+__pycache__/

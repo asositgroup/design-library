@@ -1,0 +1,101 @@
+{
+ "words": [
+  {
+   "text": "Монтажлари",
+   "start": 0.01,
+   "end": 0.48,
+   "type": "word"
+  },
+  {
+   "text": "дзенаян",
+   "start": 0.48,
+   "end": 1.0,
+   "type": "word"
+  },
+  {
+   "text": "зорчуцчу,",
+   "start": 1.0,
+   "end": 1.5,
+   "type": "word"
+  },
+  {
+   "text": "чу",
+   "start": 1.61,
+   "end": 1.81,
+   "type": "word"
+  },
+  {
+   "text": "шу",
+   "start": 1.98,
+   "end": 2.12,
+   "type": "word"
+  },
+  {
+   "text": "5",
+   "start": 2.17,
+   "end": 2.22,
+   "type": "word"
+  },
+  {
+   "text": "-ti",
+   "start": 2.22,
+   "end": 2.4,
+   "type": "word"
+  },
+  {
+   "text": "muzikani",
+   "start": 2.4,
+   "end": 2.72,
+   "type": "word"
+  },
+  {
+   "text": "ishlatim.",
+   "start": 2.72,
+   "end": 3.12,
+   "type": "word"
+  },
+  {
+   "text": "Дзенаян",
+   "start": 25.53,
+   "end": 26.23,
+   "type": "word"
+  },
+  {
+   "text": "xuzi",
+   "start": 26.23,
+   "end": 26.45,
+   "type": "word"
+  },
+  {
+   "text": "xarle",
+   "start": 26.45,
+   "end": 26.63,
+   "type": "word"
+  },
+  {
+   "text": "kartetichun,",
+   "start": 26.63,
+   "end": 27.31,
+   "type": "word"
+  },
+  {
+   "text": "sakhifamge",
+   "start": 27.31,
+   "end": 28.05,
+   "type": "word"
+  },
+  {
+   "text": "abunubob",
+   "start": 28.05,
+   "end": 28.72,
+   "type": "word"
+  },
+  {
+   "text": "qoyim.",
+   "start": 28.83,
+   "end": 28.95,
+   "type": "word"
+  }
+ ],
+ "note": "whisper + energiya bo'yicha chegaralar"
+}

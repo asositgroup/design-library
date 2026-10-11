@@ -1,0 +1,577 @@
+[
+ {
+  "text": "SAT",
+  "start": 0.0,
+  "end": 0.22
+ },
+ {
+  "text": "-dan",
+  "start": 0.22,
+  "end": 0.6
+ },
+ {
+  "text": "1400",
+  "start": 0.6,
+  "end": 1.06
+ },
+ {
+  "text": "-dan",
+  "start": 1.06,
+  "end": 1.68
+ },
+ {
+  "text": "koppal",
+  "start": 1.68,
+  "end": 2.06
+ },
+ {
+  "text": "alishigiz",
+  "start": 2.06,
+  "end": 2.54
+ },
+ {
+  "text": "chun",
+  "start": 2.54,
+  "end": 2.82
+ },
+ {
+  "text": "shu",
+  "start": 2.82,
+  "end": 3.26
+ },
+ {
+  "text": "ikte",
+  "start": 3.26,
+  "end": 3.52
+ },
+ {
+  "text": "saytda",
+  "start": 3.52,
+  "end": 3.94
+ },
+ {
+  "text": "daimi",
+  "start": 3.94,
+  "end": 4.52
+ },
+ {
+  "text": "faydalanishigiz",
+  "start": 4.52,
+  "end": 5.2
+ },
+ {
+  "text": "kirek.",
+  "start": 5.2,
+  "end": 5.5
+ },
+ {
+  "text": "Bu",
+  "start": 5.56,
+  "end": 5.74
+ },
+ {
+  "text": "ayat",
+  "start": 5.74,
+  "end": 5.98
+ },
+ {
+  "text": "etkin",
+  "start": 5.98,
+  "end": 6.26
+ },
+ {
+  "text": "saytlarini",
+  "start": 6.26,
+  "end": 6.92
+ },
+ {
+  "text": "koppchilik",
+  "start": 6.92,
+  "end": 7.62
+ },
+ {
+  "text": "biladi.",
+  "start": 7.62,
+  "end": 7.96
+ },
+ {
+  "text": "Tanchalik",
+  "start": 8.1,
+  "end": 8.76
+ },
+ {
+  "text": "faydali",
+  "start": 8.76,
+  "end": 9.24
+ },
+ {
+  "text": "ikanligini",
+  "start": 9.24,
+  "end": 9.8
+ },
+ {
+  "text": "xan",
+  "start": 9.8,
+  "end": 10.0
+ },
+ {
+  "text": "biladi,",
+  "start": 10.0,
+  "end": 10.34
+ },
+ {
+  "text": "lekin",
+  "start": 10.34,
+  "end": 10.66
+ },
+ {
+  "text": "muntazam",
+  "start": 10.66,
+  "end": 11.34
+ },
+ {
+  "text": "ravishda",
+  "start": 11.34,
+  "end": 11.68
+ },
+ {
+  "text": "shogunlanmayib.",
+  "start": 11.68,
+  "end": 12.32
+ },
+ {
+  "text": "Sizgi",
+  "start": 12.42,
+  "end": 12.9
+ },
+ {
+  "text": "bularini",
+  "start": 12.9,
+  "end": 13.26
+ },
+ {
+  "text": "ayat",
+  "start": 13.26,
+  "end": 13.44
+ },
+ {
+  "text": "chibna",
+  "start": 13.44,
+  "end": 13.66
+ },
+ {
+  "text": "aldin,",
+  "start": 13.66,
+  "end": 14.12
+ },
+ {
+  "text": "abunabol",
+  "start": 14.18,
+  "end": 14.7
+ },
+ {
+  "text": "koyib.",
+  "start": 14.7,
+  "end": 15.08
+ },
+ {
+  "text": "Birinchi",
+  "start": 15.16,
+  "end": 15.66
+ },
+ {
+  "text": "si",
+  "start": 15.66,
+  "end": 15.86
+ },
+ {
+  "text": "Bluebook.",
+  "start": 15.86,
+  "end": 16.4
+ },
+ {
+  "text": "Bu,",
+  "start": 16.56,
+  "end": 16.98
+ },
+ {
+  "text": "College",
+  "start": 17.08,
+  "end": 17.48
+ },
+ {
+  "text": "Board",
+  "start": 17.48,
+  "end": 17.74
+ },
+ {
+  "text": "-ni",
+  "start": 17.74,
+  "end": 17.9
+ },
+ {
+  "text": "ozu",
+  "start": 17.9,
+  "end": 18.18
+ },
+ {
+  "text": "chikargan",
+  "start": 18.18,
+  "end": 18.58
+ },
+ {
+  "text": "rasmi",
+  "start": 18.58,
+  "end": 19.08
+ },
+ {
+  "text": "platformasi",
+  "start": 19.08,
+  "end": 19.92
+ },
+ {
+  "text": "soplanad.",
+  "start": 19.92,
+  "end": 20.4
+ },
+ {
+  "text": "Test",
+  "start": 20.5,
+  "end": 20.82
+ },
+ {
+  "text": "güni,",
+  "start": 20.82,
+  "end": 21.22
+ },
+ {
+  "text": "siz",
+  "start": 21.22,
+  "end": 21.5
+ },
+ {
+  "text": "aynan",
+  "start": 21.5,
+  "end": 22.0
+ },
+ {
+  "text": "usha",
+  "start": 22.0,
+  "end": 22.3
+ },
+ {
+  "text": "platformada",
+  "start": 22.3,
+  "end": 22.98
+ },
+ {
+  "text": "imtqon",
+  "start": 22.98,
+  "end": 23.3
+ },
+ {
+  "text": "toqchirasiz,",
+  "start": 23.3,
+  "end": 23.9
+ },
+ {
+  "text": "shuni",
+  "start": 23.98,
+  "end": 24.54
+ },
+ {
+  "text": "uchun",
+  "start": 24.54,
+  "end": 24.92
+ },
+ {
+  "text": "mashilarini",
+  "start": 24.92,
+  "end": 25.46
+ },
+ {
+  "text": "xan",
+  "start": 25.46,
+  "end": 25.62
+ },
+ {
+  "text": "shu",
+  "start": 25.62,
+  "end": 25.9
+ },
+ {
+  "text": "platformada",
+  "start": 25.9,
+  "end": 26.56
+ },
+ {
+  "text": "bacarish",
+  "start": 26.56,
+  "end": 26.96
+ },
+ {
+  "text": "kirek.",
+  "start": 26.96,
+  "end": 27.28
+ },
+ {
+  "text": "Adaptiv",
+  "start": 27.32,
+  "end": 27.88
+ },
+ {
+  "text": "testlar,",
+  "start": 27.88,
+  "end": 28.44
+ },
+ {
+  "text": "teynchilik",
+  "start": 28.44,
+  "end": 29.16
+ },
+ {
+  "text": "darajasy",
+  "start": 29.16,
+  "end": 29.72
+ },
+ {
+  "text": "hammasi",
+  "start": 29.72,
+  "end": 30.56
+ },
+ {
+  "text": "utuamblan",
+  "start": 30.56,
+  "end": 31.2
+ },
+ {
+  "text": "birxil.",
+  "start": 31.2,
+  "end": 31.72
+ },
+ {
+  "text": "Ikinci,",
+  "start": 31.78,
+  "end": 32.2
+ },
+ {
+  "text": "Khan",
+  "start": 32.42,
+  "end": 32.74
+ },
+ {
+  "text": "Academy",
+  "start": 32.74,
+  "end": 33.08
+ },
+ {
+  "text": "-dagi",
+  "start": 33.08,
+  "end": 33.42
+ },
+ {
+  "text": "Official",
+  "start": 33.42,
+  "end": 33.86
+ },
+ {
+  "text": "SAT",
+  "start": 33.86,
+  "end": 34.5
+ },
+ {
+  "text": "Rights.",
+  "start": 34.5,
+  "end": 35.2
+ },
+ {
+  "text": "Bukham",
+  "start": 35.52,
+  "end": 36.04
+ },
+ {
+  "text": "College",
+  "start": 36.04,
+  "end": 36.36
+ },
+ {
+  "text": "Board",
+  "start": 36.36,
+  "end": 36.7
+ },
+ {
+  "text": "-lar",
+  "start": 36.7,
+  "end": 36.92
+ },
+ {
+  "text": "hamkorlikta",
+  "start": 36.92,
+  "end": 37.64
+ },
+ {
+  "text": "tuzulgan,",
+  "start": 37.64,
+  "end": 38.22
+ },
+ {
+  "text": "hamda",
+  "start": 38.3,
+  "end": 38.72
+ },
+ {
+  "text": "mutlaqo",
+  "start": 38.72,
+  "end": 39.4
+ },
+ {
+  "text": "biyapol,",
+  "start": 39.4,
+  "end": 39.88
+ },
+ {
+  "text": "xarbur",
+  "start": 39.9,
+  "end": 40.42
+ },
+ {
+  "text": "mawzu",
+  "start": 40.42,
+  "end": 40.84
+ },
+ {
+  "text": "video",
+  "start": 40.84,
+  "end": 41.2
+ },
+ {
+  "text": "bulan",
+  "start": 41.2,
+  "end": 41.54
+ },
+ {
+  "text": "chunturladi,",
+  "start": 41.54,
+  "end": 42.12
+ },
+ {
+  "text": "kiyn",
+  "start": 42.24,
+  "end": 42.76
+ },
+ {
+  "text": "mashqilasiz.",
+  "start": 42.76,
+  "end": 43.62
+ },
+ {
+  "text": "Bularini",
+  "start": 43.76,
+  "end": 44.44
+ },
+ {
+  "text": "bittasi",
+  "start": 44.44,
+  "end": 44.78
+ },
+ {
+  "text": "sizgi",
+  "start": 44.78,
+  "end": 45.12
+ },
+ {
+  "text": "bilim",
+  "start": 45.12,
+  "end": 45.42
+ },
+ {
+  "text": "deradi,",
+  "start": 45.42,
+  "end": 45.74
+ },
+ {
+  "text": "ikincisi,",
+  "start": 45.86,
+  "end": 46.74
+ },
+ {
+  "text": "usha",
+  "start": 46.74,
+  "end": 47.04
+ },
+ {
+  "text": "bilimlarini",
+  "start": 47.04,
+  "end": 47.6
+ },
+ {
+  "text": "test",
+  "start": 47.6,
+  "end": 48.02
+ },
+ {
+  "text": "formatida",
+  "start": 48.02,
+  "end": 48.64
+ },
+ {
+  "text": "tekshiradi.",
+  "start": 48.64,
+  "end": 49.14
+ },
+ {
+  "text": "Agar",
+  "start": 49.26,
+  "end": 49.5
+ },
+ {
+  "text": "video",
+  "start": 49.5,
+  "end": 49.74
+ },
+ {
+  "text": "faydalib",
+  "start": 49.74,
+  "end": 50.26
+ },
+ {
+  "text": "olgan",
+  "start": 50.26,
+  "end": 50.46
+ },
+ {
+  "text": "borsi,",
+  "start": 50.46,
+  "end": 50.86
+ },
+ {
+  "text": "SAT",
+  "start": 50.92,
+  "end": 51.42
+ },
+ {
+  "text": "-gi",
+  "start": 51.42,
+  "end": 51.68
+ },
+ {
+  "text": "taryanarkin",
+  "start": 51.68,
+  "end": 52.32
+ },
+ {
+  "text": "dostingizgi",
+  "start": 52.32,
+  "end": 52.92
+ },
+ {
+  "text": "varub",
+  "start": 52.92,
+  "end": 53.2
+ },
+ {
+  "text": "koyin.",
+  "start": 53.2,
+  "end": 53.42
+ }
+]

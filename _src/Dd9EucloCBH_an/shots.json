@@ -1,0 +1,47 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "end": 3.567,
+  "len": 3.57,
+  "luma_p2": 0.0,
+  "luma_p50": 0.154,
+  "luma_p98": 0.977,
+  "contrast": 0.233,
+  "sat": 0.561,
+  "warm": 0.145,
+  "bw": false,
+  "motion": 7.67,
+  "words": "Монтажлари дзенаян зорчуцчу, чу шу 5 -ti muzikani ishlatim."
+ },
+ {
+  "i": 1,
+  "start": 3.567,
+  "end": 26.467,
+  "len": 22.9,
+  "luma_p2": 0.068,
+  "luma_p50": 0.405,
+  "luma_p98": 0.93,
+  "contrast": 0.228,
+  "sat": 0.612,
+  "warm": -0.043,
+  "bw": false,
+  "motion": 12.57,
+  "words": "Дзенаян xuzi xarle"
+ },
+ {
+  "i": 2,
+  "start": 26.467,
+  "end": 29.233333,
+  "len": 2.77,
+  "luma_p2": 0.008,
+  "luma_p50": 0.154,
+  "luma_p98": 0.687,
+  "contrast": 0.169,
+  "sat": 0.73,
+  "warm": 0.187,
+  "bw": false,
+  "motion": 9.24,
+  "words": "kartetichun, sakhifamge abunubob qoyim."
+ }
+]

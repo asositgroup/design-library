@@ -1,0 +1,47 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "end": 6.017,
+  "len": 6.02,
+  "luma_p2": 0.066,
+  "luma_p50": 0.392,
+  "luma_p98": 0.731,
+  "contrast": 0.192,
+  "sat": 0.303,
+  "warm": 0.13,
+  "bw": false,
+  "motion": 19.02,
+  "words": "Altyazı M .K."
+ },
+ {
+  "i": 1,
+  "start": 6.017,
+  "end": 12.017,
+  "len": 6.0,
+  "luma_p2": 0.103,
+  "luma_p50": 0.355,
+  "luma_p98": 0.875,
+  "contrast": 0.266,
+  "sat": 0.304,
+  "warm": 0.13,
+  "bw": false,
+  "motion": 19.26,
+  "words": ""
+ },
+ {
+  "i": 2,
+  "start": 12.017,
+  "end": 18.017234,
+  "len": 6.0,
+  "luma_p2": 0.034,
+  "luma_p50": 0.392,
+  "luma_p98": 0.711,
+  "contrast": 0.203,
+  "sat": 0.366,
+  "warm": 0.172,
+  "bw": false,
+  "motion": 15.64,
+  "words": ""
+ }
+]

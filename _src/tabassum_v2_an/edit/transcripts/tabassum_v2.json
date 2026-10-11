@@ -1,0 +1,443 @@
+{
+ "words": [
+  {
+   "text": "Payqambarimizdi",
+   "start": 0.41,
+   "end": 1.24,
+   "type": "word"
+  },
+  {
+   "text": "daim",
+   "start": 1.24,
+   "end": 1.46,
+   "type": "word"
+  },
+  {
+   "text": "soqa",
+   "start": 1.46,
+   "end": 1.74,
+   "type": "word"
+  },
+  {
+   "text": "salam",
+   "start": 1.74,
+   "end": 2.02,
+   "type": "word"
+  },
+  {
+   "text": "alib",
+   "start": 2.02,
+   "end": 2.21,
+   "type": "word"
+  },
+  {
+   "text": "gelishkanda,",
+   "start": 2.29,
+   "end": 2.64,
+   "type": "word"
+  },
+  {
+   "text": "ular",
+   "start": 2.72,
+   "end": 2.94,
+   "type": "word"
+  },
+  {
+   "text": "bu",
+   "start": 2.94,
+   "end": 3.07,
+   "type": "word"
+  },
+  {
+   "text": "sadaqami",
+   "start": 3.1,
+   "end": 3.58,
+   "type": "word"
+  },
+  {
+   "text": "yaki",
+   "start": 3.58,
+   "end": 3.83,
+   "type": "word"
+  },
+  {
+   "text": "eqsa",
+   "start": 3.91,
+   "end": 4.13,
+   "type": "word"
+  },
+  {
+   "text": "madib",
+   "start": 4.13,
+   "end": 4.46,
+   "type": "word"
+  },
+  {
+   "text": "surardilar.",
+   "start": 4.46,
+   "end": 4.94,
+   "type": "word"
+  },
+  {
+   "text": "Agar",
+   "start": 5.18,
+   "end": 5.74,
+   "type": "word"
+  },
+  {
+   "text": "ular",
+   "start": 5.74,
+   "end": 5.96,
+   "type": "word"
+  },
+  {
+   "text": "sadaqa",
+   "start": 5.96,
+   "end": 6.26,
+   "type": "word"
+  },
+  {
+   "text": "deyib",
+   "start": 6.31,
+   "end": 6.46,
+   "type": "word"
+  },
+  {
+   "text": "jawab",
+   "start": 6.46,
+   "end": 6.74,
+   "type": "word"
+  },
+  {
+   "text": "berisi",
+   "start": 6.74,
+   "end": 7.02,
+   "type": "word"
+  },
+  {
+   "text": "almastila,",
+   "start": 7.02,
+   "end": 7.62,
+   "type": "word"
+  },
+  {
+   "text": "sabab",
+   "start": 7.68,
+   "end": 8.24,
+   "type": "word"
+  },
+  {
+   "text": "-i",
+   "start": 8.24,
+   "end": 8.29,
+   "type": "word"
+  },
+  {
+   "text": "sadaqa",
+   "start": 8.24,
+   "end": 8.59,
+   "type": "word"
+  },
+  {
+   "text": "en",
+   "start": 8.62,
+   "end": 8.82,
+   "type": "word"
+  },
+  {
+   "text": "muqtaq",
+   "start": 8.82,
+   "end": 9.24,
+   "type": "word"
+  },
+  {
+   "text": "adamgi",
+   "start": 9.24,
+   "end": 9.6,
+   "type": "word"
+  },
+  {
+   "text": "veriladi,",
+   "start": 9.6,
+   "end": 9.96,
+   "type": "word"
+  },
+  {
+   "text": "eqsanisi",
+   "start": 10.06,
+   "end": 10.72,
+   "type": "word"
+  },
+  {
+   "text": "barkcayi",
+   "start": 10.72,
+   "end": 11.58,
+   "type": "word"
+  },
+  {
+   "text": "berisi",
+   "start": 11.58,
+   "end": 11.84,
+   "type": "word"
+  },
+  {
+   "text": "boladi",
+   "start": 11.87,
+   "end": 12.18,
+   "type": "word"
+  },
+  {
+   "text": "yan",
+   "start": 12.18,
+   "end": 12.32,
+   "type": "word"
+  },
+  {
+   "text": "mukafafattir.",
+   "start": 12.32,
+   "end": 13.0,
+   "type": "word"
+  },
+  {
+   "text": "Xazirgi",
+   "start": 14.15,
+   "end": 14.7,
+   "type": "word"
+  },
+  {
+   "text": "gunda",
+   "start": 14.7,
+   "end": 14.94,
+   "type": "word"
+  },
+  {
+   "text": "xamma",
+   "start": 14.94,
+   "end": 15.2,
+   "type": "word"
+  },
+  {
+   "text": "bitin",
+   "start": 15.2,
+   "end": 15.56,
+   "type": "word"
+  },
+  {
+   "text": "arsayi",
+   "start": 15.56,
+   "end": 15.84,
+   "type": "word"
+  },
+  {
+   "text": "muqtaq,",
+   "start": 15.84,
+   "end": 16.18,
+   "type": "word"
+  },
+  {
+   "text": "bu",
+   "start": 16.28,
+   "end": 16.42,
+   "type": "word"
+  },
+  {
+   "text": "yan",
+   "start": 16.53,
+   "end": 16.66,
+   "type": "word"
+  },
+  {
+   "text": "bolsa",
+   "start": 16.66,
+   "end": 16.95,
+   "type": "word"
+  },
+  {
+   "text": "tabassum.",
+   "start": 17.01,
+   "end": 17.73,
+   "type": "word"
+  },
+  {
+   "text": "Daim",
+   "start": 19.09,
+   "end": 19.38,
+   "type": "word"
+  },
+  {
+   "text": "yoxshar",
+   "start": 19.38,
+   "end": 19.68,
+   "type": "word"
+  },
+  {
+   "text": "bilan",
+   "start": 19.68,
+   "end": 19.88,
+   "type": "word"
+  },
+  {
+   "text": "surashganimda,",
+   "start": 19.88,
+   "end": 20.5,
+   "type": "word"
+  },
+  {
+   "text": "ozun",
+   "start": 20.58,
+   "end": 20.82,
+   "type": "word"
+  },
+  {
+   "text": "ten",
+   "start": 20.82,
+   "end": 20.98,
+   "type": "word"
+  },
+  {
+   "text": "kurballa",
+   "start": 20.98,
+   "end": 21.44,
+   "type": "word"
+  },
+  {
+   "text": "bilan",
+   "start": 21.44,
+   "end": 21.66,
+   "type": "word"
+  },
+  {
+   "text": "gaprashganimda,",
+   "start": 21.66,
+   "end": 22.3,
+   "type": "word"
+  },
+  {
+   "text": "xovaqani",
+   "start": 22.39,
+   "end": 22.94,
+   "type": "word"
+  },
+  {
+   "text": "salib,",
+   "start": 22.94,
+   "end": 23.36,
+   "type": "word"
+  },
+  {
+   "text": "ne",
+   "start": 23.45,
+   "end": 23.58,
+   "type": "word"
+  },
+  {
+   "text": "davolni",
+   "start": 23.61,
+   "end": 24.0,
+   "type": "word"
+  },
+  {
+   "text": "bolish",
+   "start": 24.0,
+   "end": 24.3,
+   "type": "word"
+  },
+  {
+   "text": "boladi.",
+   "start": 24.3,
+   "end": 24.54,
+   "type": "word"
+  },
+  {
+   "text": "Bu",
+   "start": 24.73,
+   "end": 24.84,
+   "type": "word"
+  },
+  {
+   "text": "videonu",
+   "start": 24.95,
+   "end": 25.3,
+   "type": "word"
+  },
+  {
+   "text": "koryabsimi,",
+   "start": 25.3,
+   "end": 25.82,
+   "type": "word"
+  },
+  {
+   "text": "demay",
+   "start": 25.9,
+   "end": 26.28,
+   "type": "word"
+  },
+  {
+   "text": "kimdir",
+   "start": 26.28,
+   "end": 26.58,
+   "type": "word"
+  },
+  {
+   "text": "bilan",
+   "start": 26.58,
+   "end": 26.78,
+   "type": "word"
+  },
+  {
+   "text": "surasiz,",
+   "start": 26.78,
+   "end": 27.08,
+   "type": "word"
+  },
+  {
+   "text": "daim",
+   "start": 27.44,
+   "end": 27.78,
+   "type": "word"
+  },
+  {
+   "text": "kushmamilalik",
+   "start": 27.78,
+   "end": 28.42,
+   "type": "word"
+  },
+  {
+   "text": "bilan",
+   "start": 28.53,
+   "end": 28.66,
+   "type": "word"
+  },
+  {
+   "text": "kulib",
+   "start": 28.66,
+   "end": 28.9,
+   "type": "word"
+  },
+  {
+   "text": "surashin.",
+   "start": 28.9,
+   "end": 29.3,
+   "type": "word"
+  },
+  {
+   "text": "As",
+   "start": 29.3,
+   "end": 30.55,
+   "type": "word"
+  },
+  {
+   "text": "-salamu",
+   "start": 30.6,
+   "end": 30.94,
+   "type": "word"
+  },
+  {
+   "text": "alaikum",
+   "start": 30.94,
+   "end": 31.27,
+   "type": "word"
+  }
+ ],
+ "note": "whisper + energiya bo'yicha chegaralar"
+}
